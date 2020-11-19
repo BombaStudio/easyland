@@ -4,4 +4,7 @@ background-color: rgb(200,200,200);
 }
 .land-header {
 color: rgb(225,225,225);
+width: 90%;
+height: auto;
+margin-left: 5%;
 }
