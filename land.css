@@ -1,10 +1,10 @@
-
 .land-container {
 background-color: rgb(200,200,200);
 width: 90%;
 height: auto;
 margin-left: 5%;
 border-radius: 10px;
+max-width: 250px;
 }
 .land-header {
 color: rgb(225,225,225);
