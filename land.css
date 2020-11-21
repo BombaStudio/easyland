@@ -12,10 +12,13 @@ float: left;
 color: rgb(225,225,225);
 }
 .land-footer {
+/*
 position: absolute;
 top: 90%;
 left: 0%;
 height: 10%;
+*/
+visibility: hidden;
 width: 100%;
 color: rgb(225,225,225);
 }
