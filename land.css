@@ -16,6 +16,10 @@ color: #fff;
 text-decoration: none;
 color: #fff;
 }
+.land-container .title {
+background-color: rgba(0,0,0,0);
+text-align: center;
+}
 .land-header {
 color: rgb(225,225,225);
 }
