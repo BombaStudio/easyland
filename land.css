@@ -11,3 +11,7 @@ float: left;
 .land-header {
 color: rgb(225,225,225);
 }
+.land-footer {
+width: 100%;
+color: rgb(225,225,225);
+}
