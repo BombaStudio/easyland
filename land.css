@@ -9,8 +9,8 @@ border-radius: 10px;
 float: left;
 }
 .land-container h3 {
-background-color: rgba(0,0,0,0.35);
-color: #fff;
+background-color: rgba(0,0,0,0.5);
+color: rgb(200,200,200);
 }
 .land-container h3 a {
 text-decoration: none;
