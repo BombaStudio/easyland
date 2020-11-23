@@ -34,6 +34,9 @@ visibility: hidden;
 width: 100%;
 color: rgb(225,225,225);
 }
+.blog-posts. {
+max-width: 350px;
+}
 @media screen and (max-width: 720px){
 
 }
